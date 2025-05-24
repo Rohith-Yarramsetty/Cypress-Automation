@@ -1,0 +1,17 @@
+export default {
+  signin: '/v1/auth/signin',
+  signup: '/v1/accounts',
+  signout: '/v1/auth/signout',
+  confirmSignUp: '/v1/users/verify/account',
+  getComponetData: `/v1/components/id?showAll=true&include=children,documents,creator,images,revisions`,
+  saveComponent: `/v1/components/id`,
+  submitNewComponentForm: '/v1/components',
+  thumbnailUpload: '/v1/images',
+  documentsUpload: '/v1/documents',
+  createUser: '/v1/users',
+  setPassword: '/v1/auth/accept',
+  currentUser: '/v1/users/current',
+  saveCoApprovalTemplate: '/v1/services/files/saveCoApprovalTemplate',
+  companyProfile: '/v1/companies/current',
+  deleteDraftedCo: (changeOrderId) => `/v1/changeorders/${changeOrderId}/delete`,
+}

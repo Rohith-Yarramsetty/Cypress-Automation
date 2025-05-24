@@ -1,0 +1,58 @@
+{
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "name": "GRM155R71H103KA88-01.pdf",
+                "type": "file"
+              }
+            ],
+            "name": "Docs-212-00001.1",
+            "type": "directory"
+          },
+          {
+            "children": [
+              {
+                "name": "durologo.png",
+                "type": "file"
+              }
+            ],
+            "name": "Images-212-00001.1",
+            "type": "directory"
+          }
+        ],
+        "name": "212-00001.1",
+        "type": "directory"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "name": "durologo.png",
+                "type": "file"
+              }
+            ],
+            "name": "Images-216-00001.B",
+            "type": "directory"
+          }
+        ],
+        "name": "216-00001.B",
+        "type": "directory"
+      },
+      {
+        "children": [
+          {
+            "name": "GRM155R71H103KA88-01.pdf",
+            "type": "file"
+          }
+        ],
+        "name": "Docs-910-00001.1",
+        "type": "directory"
+      }
+    ],
+    "name": "910-00001.1",
+    "type": "directory"
+  }

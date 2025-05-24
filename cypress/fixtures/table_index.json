@@ -1,0 +1,21 @@
+{
+    "users": {
+        "full name": 1,
+        "email": 2,
+        "job title": 3,
+        "role": 4,
+        "groups": 5,
+        "last session": 6
+    },
+    "product": {
+		"cpn": "cpn",
+		"eid": "eid",
+		"category": "category",
+		"name": "name",
+		"images": "images",
+        "description": "description",
+		"revision": "revision",
+		"status": "status",
+		"lastModified": "lastModified"
+	}
+}

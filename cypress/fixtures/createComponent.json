@@ -1,0 +1,238 @@
+[
+  {
+    "category": "Capacitor",
+    "name": "2.2uF, 10V, 10%, X7R",
+    "revision": 1,
+    "status": "Design",
+    "compDesc": "This is a capacitor of value 2.2uf",
+    "images": "durologo.png",
+    "imageFileType": "image/png",
+    "documents": "GRM155R71H103KA88-01.pdf",
+    "documentFileType": "application/pdf",
+    "specs": [
+      {
+        "value": "2.2uf",
+        "key": "Capacitance"
+      },
+      {
+        "value": "0402",
+        "key": "Package"
+      },
+      {
+        "value": "10v",
+        "key": "Voltage"
+      },
+      {
+        "value": "10%",
+        "key": "Tolerance"
+      },
+      {
+        "value": "X7R",
+        "key": "Type"
+      },
+      {
+        "value": "",
+        "key": "Operating Temperature Min"
+      },
+      {
+        "value": "",
+        "key": "Operating Temperature Max"
+      },
+      {
+        "value": "",
+        "key": "Footprint Path"
+      },
+      {
+        "value": "",
+        "key": "Package Label"
+      },
+      {
+        "value": "",
+        "key": "Symbol Path"
+      },
+      {
+        "value": "",
+        "key": "Symbol Label"
+      }
+    ],
+    "manufacturer": "Yageo",
+    "mpn": "GRJ1023899JKL",
+    "datasheet": "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H103KA88-01.pdf",
+    "distributor": "Digikey",
+    "dpn": "DKGRJ1023",
+    "package": "Tape & Reel",
+    "packageQuantity": 2000,
+    "minQuantity": 1,
+    "unitPrice": "0.023",
+    "quoteLeadTime": "",
+    "quoteLeadTimeUnit": ""
+  },
+  {
+    "category": "Resistor",
+    "name": "5.62K,1% Resistor",
+    "revision": "A",
+    "status": "Production",
+    "compDesc": "",
+    "images": "",
+    "documents": "",
+    "specs": [
+      {
+        "key": "Resistance",
+        "value": "5.62K"
+      },
+      {
+        "key": "Tolerance",
+        "value": "1%"
+      },
+      {
+        "key": "Package",
+        "value": "0402"
+      },
+      {
+        "key": "Power",
+        "value": ""
+      },
+      {
+        "key": "Operating Temperature Min",
+        "value": ""
+      },
+      {
+        "key": "Operating Temperature Max",
+        "value": ""
+      },
+      {
+        "key": "Footprint Path",
+        "value": ""
+      },
+      {
+        "key": "Package Label",
+        "value": ""
+      },
+      {
+        "key": "Symbol Path",
+        "value": ""
+      },
+      {
+        "key": "Symbol Label",
+        "value": ""
+      }
+    ],
+    "manufacturer": "Rohm",
+    "mpn": "RJ103K122",
+    "datasheet": "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf",
+    "distributor": "Mouser",
+    "dpn": "M103K",
+    "package": "Tray",
+    "packageQuantity": 1000,
+    "minQuantity": 1000,
+    "unitPrice": "0.34",
+    "quoteLeadTime": "4",
+    "quoteLeadTimeUnit": "DAYS"
+  },
+  {
+    "category": "Resistor",
+    "name": "10k, 5%",
+    "revision": "C",
+    "status": "Production",
+    "compDesc": "This resistor is the right one to use",
+    "images": "",
+    "documents": "",
+    "specs": "",
+    "manufacturer": "Rohm",
+    "mpn": "RJ103K123",
+    "datasheet": "",
+    "distributor": "Mouser",
+    "dpn": "AXT16M",
+    "package": "Tray",
+    "packageQuantity": 1000,
+    "minQuantity": 1000,
+    "unitPrice": "0.34",
+    "quoteLeadTime": "",
+    "quoteLeadTimeUnit": ""
+  },
+  {
+    "category": "Crystal",
+    "name": "16MHz CRYSTAL_SMD",
+    "revision": "B",
+    "status": "Obsolete",
+    "compDesc": "My crystal meth",
+    "images": "durologo.png",
+    "imageFileType": "image/png",
+    "documents": "",
+    "specs": [
+      {
+        "key": "Frequency",
+        "value": "16MHz"
+      },
+      {
+        "key": "Stability",
+        "value": ""
+      },
+      {
+        "key": "Tolerance",
+        "value": ""
+      },
+      {
+        "key": "Capacitance",
+        "value": ""
+      },
+      {
+        "key": "Operating Temperature Min",
+        "value": ""
+      },
+      {
+        "key": "Operating Temperature Max",
+        "value": ""
+      },
+      {
+        "key": "Footprint Path",
+        "value": ""
+      },
+      {
+        "key": "Package Label",
+        "value": ""
+      },
+      {
+        "key": "Symbol Path",
+        "value": ""
+      },
+      {
+        "key": "Symbol Label",
+        "value": ""
+      }
+    ],
+    "manufacturer": "JET",
+    "mpn": "XT16F",
+    "datasheet": "http://www.abracon.com/Resonators/abls.pdf",
+    "distributor": "Arrow",
+    "dpn": "AXT16M",
+    "package": "Bulk",
+    "packageQuantity": 10,
+    "minQuantity": 10,
+    "unitPrice": "1.23",
+    "quoteLeadTime": "81",
+    "quoteLeadTimeUnit": "DAYS"
+  },
+  {
+    "category": "EBOM",
+    "name": "EBOM Assembly Parent",
+    "revision": 1,
+    "status": "Design",
+    "compDesc": "This is an EBOM",
+    "images": "",
+    "documents": "GRM155R71H103KA88-01.pdf",
+    "documentFileType": "application/pdf",
+    "specs": "",
+    "manufacturer": "JET",
+    "mpn": "XT16M",
+    "datasheet": "",
+    "distributor": "Arrow",
+    "dpn": "AXT16M",
+    "package": "Bulk",
+    "packageQuantity": 10,
+    "minQuantity": 10,
+    "unitPrice": "1.23",
+    "quoteLeadTime": "",
+    "quoteLeadTimeUnit": ""
+  }
+]

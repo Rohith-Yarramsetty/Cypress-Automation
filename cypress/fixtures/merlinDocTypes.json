@@ -1,0 +1,74 @@
+[
+  {
+    "name": "6.baseline-assembly-component.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "6a.new_component-bare_minimum.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "7a1.create-self-reference-component.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "createComponent.json",
+    "type": "file"
+  },
+  {
+    "name": "customCmpFile.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "descModifiedFile.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "exportedZipFolderStructure.json",
+    "type": "file"
+  },
+  {
+    "name": "hundredCmpWithMpnsAndDatasheet.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "importComponentData03.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "importComponentData2.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "importComponentDataForOrbitFab.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "importHundredComponents.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "importTwoHundredComponents.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "newCmpForAlreadyTakenEid.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "sample_document.doc",
+    "type": "file"
+  },
+  {
+    "name": "table_index.json",
+    "type": "file"
+  },
+  {
+    "name": "tenCmpWithMpnsAndDatasheet.xlsx",
+    "type": "file"
+  },
+  {
+    "name": "updatedMerlinCategories.xlsx",
+    "type": "file"
+  }
+]
